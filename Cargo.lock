@@ -3,5 +3,24 @@
 version = 3
 
 [[package]]
+name = "ast"
+version = "0.1.0"
+
+[[package]]
+name = "back_end"
+version = "0.1.0"
+
+[[package]]
+name = "front_end"
+version = "0.1.0"
+dependencies = [
+ "math",
+]
+
+[[package]]
 name = "lisp-with-owner"
+version = "0.1.0"
+
+[[package]]
+name = "math"
 version = "0.1.0"
